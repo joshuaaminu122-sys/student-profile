@@ -1,0 +1,87 @@
+.bowl{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid lightgrey; 
+    border-radius: 12px;
+    align-items: center;
+}
+.bowl a{
+    padding: 15px;
+    
+    background-color: white;
+    font-size: 15px;
+
+}
+a{
+    text-decoration: none;
+     color: black;
+     font-weight: 300;
+    
+}
+h1{
+    font-size: 40px;
+    font-style: inherit;
+    margin: 10px;
+}
+#come{
+    font-size: 13px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 100;
+    margin: 5px;
+    padding: 10px;
+}
+.window{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 30px;
+
+}
+h4{
+    margin: 10px;
+    padding: 1px;
+}
+.glass{
+    margin: 15px;
+    padding: 1px;
+    background-color: aquamarine;
+    width: 23px;
+}
+
+h3{
+    color: blue;
+    margin: 2px;
+}
+.sharp{
+    border-radius: 10px;
+    border: 3px solid lightgrey;
+    width: 80%;
+}
+p{
+    margin: 0px;
+    padding:0px;
+}
+form{
+    width: 60%;
+    height: 50%;
+}
+.cord{
+    color: black;
+}
+.gas{
+    border-radius: 15px;
+    border: 3px solid lightgrey;
+    width: 120%;
+    height: 94%;
+    gap: 70px;
+}
+.card{
+    width: 60%;
+}
+.mirror{
+    display: flex;
+    flex-direction: row;
+}
+
